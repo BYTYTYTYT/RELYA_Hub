@@ -3,5 +3,5 @@
 LOADSTRING:
 
 ```
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BYTYTYTYT/RELYA_Hub/main/loader.lua'))()
 ```
